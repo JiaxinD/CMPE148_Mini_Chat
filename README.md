@@ -1,4 +1,5 @@
-# CMPE148_Mini_Chat
+
+Mini_Chat
 
 A chatting program basing on PHP and Socket.
 
